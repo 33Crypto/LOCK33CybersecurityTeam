@@ -1,3 +1,5 @@
+LOCK33 Security is looking for people that would like to collaborate with #LOCK33.
+
 platform-samples
 ================
 
